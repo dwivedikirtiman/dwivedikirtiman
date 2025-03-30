@@ -3,6 +3,15 @@ Hi, I’m Kirtiman Dwivedi! 👋<br><br>I’m a tech explorer navigating the wil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)
 
+<!-- Option 1: Clean counter from glitch.me -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/dwivedikirtiman/count.svg)-->
+
+<!-- Option 2: Styled counter from komarev -->
+<!--![Profile Views](https://komarev.com/ghpvc/?username=dwivedikirtiman&label=Profile%20Views&color=0e75b6&style=flat)-->
+
+<!-- Option 3: Customizable counter from visitcount.itsvg.in -->
+<!--![Profile Views](https://hits.sh/github.com/dwivedikirtiman.svg)-->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtiman-dwivedi) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwivedikirtiman00@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kirtiman_D)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dwivedikirtiman00) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29680049)  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@dwivedikirtiman) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/dwivedikirtiman)  [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@dwivedikirtman) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dwivedikirtiman.bsky.social)
